@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Laptop Searcher</string>
+    <string name="Register">Register Here</string>
+    <string name="login">Login Here</string>
+    <string name="header">My Laptop Searcher</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="logout">Log Out</string>
+</resources>
